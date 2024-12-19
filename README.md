@@ -1,4 +1,4 @@
-# A VR Hatpics Feedback Project for Scribbling in Meta Quest 2
+# A VR Hatpics Feedback Project for Scribbling in Meta Oculus Quest 2
 
 ![Thumbnail](image/Thumbnail.jpg "Thumbnail")
 
